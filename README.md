@@ -1,4 +1,4 @@
-# ESPHome AdafruitPCT2075 Custom Sensor Support
+# ESPHome Adafruit PCT2075 Custom Sensor Support
 ESPHome custom sensor support for the Qwiic / STEMMA QT compatible Adafruit PCT2075 temperature sensor.
 https://learn.adafruit.com/adafruit-pct2075-temperature-sensor
 
